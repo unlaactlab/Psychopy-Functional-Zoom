@@ -1,0 +1,9 @@
+BreakExperimentNumber,BreakImageCondition,BreakImagePath_1,BreakImagePath_2,BreakImage_1,BreakImage_2,BreakImageNumber,BreakImageExtension,BreakImageSizeX,BreakImageSizeY,BreakImagePositionX_1,BreakImagePositionY_1,BreakImagePositionX_2,BreakImagePositionY_2,BreakImageScale
+2,1,../Break_Images/Giraffe.09.png,../Break_Images/Cat.09.png,Giraffe,Cat,09,.png,800,800,-0.5,0,0.5,0,1.25
+2,2,../Break_Images/Cat.10.png,../Break_Images/Dog.10.png,Cat,Dog,10,.png,800,800,-0.5,0,0.5,0,1.25
+2,3,../Break_Images/Dog.11.png,../Break_Images/Giraffe.11.png,Dog,Giraffe,11,.png,800,800,-0.5,0,0.5,0,1.25
+2,4,../Break_Images/Giraffe.12.png,../Break_Images/Cat.12.png,Giraffe,Cat,12,.png,800,800,-0.5,0,0.5,0,1.25
+2,5,../Break_Images/Cat.13.png,../Break_Images/Dog.13.png,Cat,Dog,13,.png,800,800,-0.5,0,0.5,0,1.25
+2,6,../Break_Images/Dog.14.png,../Break_Images/Giraffe.14.png,Dog,Giraffe,14,.png,800,800,-0.5,0,0.5,0,1.25
+2,7,../Break_Images/Giraffe.15.png,../Break_Images/Cat.15.png,Giraffe,Cat,15,.png,800,800,-0.5,0,0.5,0,1.25
+2,8,../Break_Images/Cat.16.png,../Break_Images/Dog.16.png,Cat,Dog,16,.png,800,800,-0.5,0,0.5,0,1.25

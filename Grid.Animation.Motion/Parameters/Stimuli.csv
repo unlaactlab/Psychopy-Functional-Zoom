@@ -1,0 +1,7 @@
+Object,ObjectPath,ObjectFile,ObjectSize,ObjectLocation,Trigger
+ball,images/ball,images/ball.png,"[1,1]","[0,0]",1
+dog,images/dog,images/dog.png,"[1,1]","[0,0]",2
+flower,images/flower,images/flower.png,"[1,1]","[0,0]",3
+lamp,images/lamp,images/lamp.png,"[1,1]","[0,0]",4
+telephone,images/telephone,images/telephone.png,"[1,1]","[0,0]",5
+tv,images/tv,images/tv.png,"[1,1]","[0,0]",6

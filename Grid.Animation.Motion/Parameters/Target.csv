@@ -1,0 +1,7 @@
+TargetObject,TargetObjectFile,TargetTrigger
+ball,images/ball.png,1
+dog,images/dog.png,2
+flower,images/flower.png,3
+lamp,images/lamp.png,4
+telephone,images/telephone.png,5
+tv,images/tv.png,6
